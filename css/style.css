@@ -219,7 +219,7 @@ span {
 }
 
 .home-info h1 span::before {
-    content: '[MADDOG PROJECT]';
+    content: '[HVH PROJECT]';
     position: absolute;
     font-size: 10px;
     letter-spacing: 6px;
