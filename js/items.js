@@ -199,17 +199,17 @@ $(document).ready(function () {
 
 
   $('#item-2-youtube').dblclick(function () {
-    window.open('https://www.youtube.com/channel/UCXacGf26fh4DPUKYvvrnk3Q');
+    window.open('www.youtube.com/@lexoffpls/');
   });
 
 
   $('#item-2-discord').dblclick(function () {
-    window.open('https://discord.gg/F8CxJ3BWC5');
+    window.open('https://t.me/lpsopg');
   });
 
 
   $('#item-2-spotify').dblclick(function () {
-    window.open('spotify:user:qvsfspob44tpcds8jh8xrwvzs:playlist:1jBuDFkDQf2xIZufQ4MVHz');
+    window.open('https://open.spotify.com/playlist/0tyD4VJWToeGXMI7ShALXy?si=3332ffbb2caa4c39');
   });
 
   /* column-3 */
