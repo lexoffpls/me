@@ -199,7 +199,7 @@ $(document).ready(function () {
 
 
   $('#item-2-youtube').dblclick(function () {
-    window.open('www.youtube.com/@lexoffpls/');
+    window.open('https://www.youtube.com/@lexoffpls/');
   });
 
 
