@@ -194,7 +194,7 @@ $(document).ready(function () {
 
 
   $('#item-instagram').dblclick(function () {
-    window.open('https://instagram.com/maslexoxo');
+    window.open('https://t.me/lilqlexoff');
   });
 
 
