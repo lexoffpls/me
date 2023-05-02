@@ -198,6 +198,11 @@ $(document).ready(function () {
   });
 
 
+  $('#item-tiktok').dblclick(function () {
+    window.open('https://tiktok.com/@lexoffpls');
+  });
+
+
   $('#item-2-youtube').dblclick(function () {
     window.open('https://www.youtube.com/@lexoffpls/');
   });
